@@ -1,0 +1,12 @@
+{
+  "name": "FateConditions",
+  "title": "Fate Conditions",
+  "description": "Store the value of checkboxes in Extras that represent conditions when a sheet is rendered and closed, then generate the checkboxes with the correct values accordingly. Requires Nick East's Fate System to function.",
+  "author": "Richard Bellingham (Skimble)",
+  "scripts": ["./FateConditions.js"],
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion":"0.6.1",
+  "system":"Fate",
+  "download":"https://github.com/Sk1mble/FateConditions/archive/master.zip"
+}
